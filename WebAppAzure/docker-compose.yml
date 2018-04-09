@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  webappazure:
+    image: webappazure
+    build:
+      context: .
+      dockerfile: WebAppAzure\Dockerfile

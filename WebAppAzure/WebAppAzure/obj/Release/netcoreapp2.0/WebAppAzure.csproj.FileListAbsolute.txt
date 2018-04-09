@@ -1,0 +1,10 @@
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\bin\Release\netcoreapp2.0\WebAppAzure.deps.json
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\bin\Release\netcoreapp2.0\WebAppAzure.runtimeconfig.json
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\bin\Release\netcoreapp2.0\WebAppAzure.runtimeconfig.dev.json
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\bin\Release\netcoreapp2.0\WebAppAzure.dll
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\bin\Release\netcoreapp2.0\WebAppAzure.pdb
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\obj\Release\netcoreapp2.0\WebAppAzure.csproj.CoreCompileInputs.cache
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\obj\Release\netcoreapp2.0\WebAppAzure.AssemblyInfoInputs.cache
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\obj\Release\netcoreapp2.0\WebAppAzure.AssemblyInfo.cs
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\obj\Release\netcoreapp2.0\WebAppAzure.dll
+C:\Users\GRezchikov\source\repos\WebAppAzure\WebAppAzure\obj\Release\netcoreapp2.0\WebAppAzure.pdb

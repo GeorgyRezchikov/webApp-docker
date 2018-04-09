@@ -1,0 +1,1 @@
+C:\Users\GRezchikov\source\repos\WebAppAzure\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

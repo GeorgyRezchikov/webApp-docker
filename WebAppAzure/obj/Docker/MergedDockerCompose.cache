@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  webappazure:
+    build:
+      context: C:\Users\GRezchikov\source\repos\WebAppAzure
+      dockerfile: WebAppAzure\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webappazure
+    ports:
+    - 80/tcp
+version: '3.0'
